@@ -2,6 +2,8 @@
 
 CLI-Type is a simple command-line typing test program written in [Python](https://www.python.org/). It allows users to practice their typing skills directly from the terminal.
 
+![Demo](/demo.gif)
+
 ## Features
 
 - Randomly generated sentences for typing practice.
