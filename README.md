@@ -24,7 +24,7 @@ cd cli-type
 3. Install blessed:
 
 ```bash
-pip install -r requirements.txt
+pip install blessed
 ```
 4. Run the program by typing:
 ```bask
